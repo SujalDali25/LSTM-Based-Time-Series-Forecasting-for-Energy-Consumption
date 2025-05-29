@@ -14,7 +14,10 @@ This project uses LSTM networks to forecast hourly energy consumption from AEP a
 ## 📈 Outputs
 
 R2 Score of RNN model =  0.9394322226943517
+![RNN Prediction Output](https://github.com/user-attachments/assets/443c0d1d-39f4-41db-a72b-4e8c50aff7d1)
+
 R^2 Score of LSTM model =  0.9503250585427323 
+![LSTM Prediction Output](https://github.com/user-attachments/assets/c9c483ac-7570-486a-af08-78f00b5de0f7)
 
 ---
 ## 📊 Data Sources
