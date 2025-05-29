@@ -7,10 +7,16 @@ This repository demonstrates a deep learning approach to **forecast hourly elect
 
 ## 📝 Project Description
 
-This project uses LSTM networks to forecast hourly energy consumption from AEP and DOM datasets. It includes data preprocessing, model building, training, and evaluation with visualizations. Ideal for learning time series forecasting using deep learning techniques like LSTM in a real-world energy context.
+This project uses LSTM networks to forecast hourly energy consumption from AEP and DOM datasets. It includes data preprocessing, model building, training, and evaluation with visualizations. Ideal for learning time series forecasting using deep learning techniques like LSTM in a real-world energy context and compares it with RNN prediction with the same data.
 
 ---
 
+## 📈 Outputs
+
+R2 Score of RNN model =  0.9394322226943517
+R^2 Score of LSTM model =  0.9503250585427323 
+
+---
 ## 📊 Data Sources
 
 - **AEP (American Electric Power):**  
